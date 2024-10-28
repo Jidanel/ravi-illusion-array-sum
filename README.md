@@ -29,13 +29,6 @@ L'approche utilisée dans ce projet repose sur des piles monotones pour trouver,
 ### Prérequis
 - Python 3.x
 
-### Exécution
-Clonez le dépôt, puis exécutez le script avec Python.
-
-```bash
-git clone https://github.com/votre-utilisateur/ravi-illusion-array-sum.git
-cd ravi-illusion-array-sum
-python illusion_of_array.py
 Entrée : Entrez d'abord la longueur du tableau, suivie des éléments du tableau sur une seule ligne, par exemple :
 
 4
